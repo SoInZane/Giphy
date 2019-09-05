@@ -1,0 +1,43 @@
+* {
+ box-sizing: border-box;
+}
+
+button {
+    color: whitesmoke;
+    background: red;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+#addButton {
+    float: right;
+    margin: 40px;
+}
+
+#submitButton {
+    color: white;
+    background: blue;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: black;
+}
+
+#newSuperhero {
+    color: whitesmoke;
+    background: white;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+#gifsSuperheroes {
+    height: 200px;
+    width: 200px;
+}
+
+form {
+    float: right;
+    margin: auto;
+    margin: left 200px;
+}
