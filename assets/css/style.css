@@ -7,10 +7,10 @@ button {
     background: red;
     display: inline-block;
     border-radius: 4px;
+    margin: 1px;
 }
 
 #addButton {
-    float: right;
     margin: 40px;
 }
 
@@ -25,7 +25,7 @@ button:hover {
 }
 
 #newSuperhero {
-    color: whitesmoke;
+    color: black;
     background: white;
     display: inline-block;
     border-radius: 4px;
@@ -37,7 +37,7 @@ button:hover {
 }
 
 form {
-    float: right;
+    float: left;
     margin: auto;
     margin: left 200px;
 }
